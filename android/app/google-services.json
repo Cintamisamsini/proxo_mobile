@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1046055671099",
+    "project_id": "co-collect",
+    "storage_bucket": "co-collect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046055671099:android:2f1086acfe12096569531e",
+        "android_client_info": {
+          "package_name": "com.brainbyte.cocollect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgJy3yWu0EfdgRN2Dhdt4JI7zokhi_jCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
