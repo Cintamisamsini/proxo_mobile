@@ -1,6 +1,6 @@
 # CoCollect - Aplikasi Peduli Lingkungan (Proxocoris 2024) 
 
-Co-Collect adalah aplikasi mobile yang dibangun menggunakan Flutter untuk memudahkan pengguna dalam berpartisipasi aktif dalam kegiatan peduli lingkungan. Aplikasi ini dirancang untuk memungkinkan pengguna untuk melaporkan dan melihat berbagai masalah lingkungan di sekitar mereka, seperti sampah berlebih, deforestasi, atau polusi udara.
+CoCollect adalah aplikasi mobile yang dibangun menggunakan Flutter untuk memudahkan pengguna dalam berpartisipasi aktif dalam kegiatan peduli lingkungan. Aplikasi ini dirancang untuk memungkinkan pengguna untuk melaporkan dan melihat berbagai masalah lingkungan di sekitar mereka, seperti sampah berlebih, deforestasi, atau polusi udara.
 
 ![Purple App Phone Mockup Sales Marketing Presentation](https://github.com/Cintamisamsini/proxo_mobile/assets/152184563/0b966d3b-0294-4f29-bfa1-8955d0337a87)
 
